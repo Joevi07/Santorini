@@ -37,16 +37,31 @@ A digital recreation of the classic board game **Santorini**, built using **Pyth
 
 ```bash
 git clone <your-repo-link>
-cd Santorini```
+cd Santorini
+```
 
 2.**Install Python Arcade**
 ```bash
 pip install arcade
+```
 
 3.Run the Game:
 ```bash
-python hom
+python home_arcade.py
+```
+----
+## How to Play:
+1. Launch the game (home_arcade.py)
+2. Click on start game
+3. Select any mode (Player VS Player or Player VS AI)
+4. Place your workers
+5. The first player to reach the third level of a tower wins
+6. Coin placement plays sounds for interactive feedback
+7. AI Uses smart moves based on **Minimax + Alpha-Beta pruning** with **heuristic evaluation**
 
+----
+
+## Demo Screenshots:
 
 
 
