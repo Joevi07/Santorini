@@ -62,6 +62,16 @@ python home_arcade.py
 ----
 
 ## Demo Screenshots:
+### Menu Screen
+![Menu Screen](images/menu_page.png)
+### Home Screen
+![Home Screen](images/home_page.png)
+### Game Screen
+![Game Screen](images/game_board.png)
+### AI Vs Player Screen
+![AI Vs Player Screen](images/ai_vs_player.png)
+### Win Screen
+![Win Screen](images/ai_wins.png)
 
 
 
